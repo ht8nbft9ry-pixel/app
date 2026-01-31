@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116747874685",
+    "project_id": "apporder123w",
+    "storage_bucket": "apporder123w.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116747874685:android:9f2406a7be82e0fbaa1c14",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjZbz115dtdDjktARx8aa7VWy-mvNUlNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
